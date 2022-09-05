@@ -18,7 +18,7 @@ const filme = {
 console.log(filme.elenco[0])
 
 //b
-console.log(filme.elenco[3])
+console.log(filme.elenco[(filme.elenco.length-1)])
 
 //c
 console.log(filme.transmissoesHoje)

@@ -27,3 +27,4 @@ copiaPokemon1.ataques.push({
 });
 
 console.log(pokemon1, copiaPokemon1);
+
